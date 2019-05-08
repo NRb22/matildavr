@@ -1,13 +1,4 @@
 ***This game is for Android (at least KitKat)***
-***Contribution***
-	배누리 : Unity including all coding, Game design
-	안수민, 정현화 : Game Story idea, PPT making, Professor's design asset searching
-
-
-***Matilda VR.pdf 
-	- PPT for the game explanation
-***Matilda_VR.apk
-	- Aplication File for Android
 
 ***Source Codes List***
 
